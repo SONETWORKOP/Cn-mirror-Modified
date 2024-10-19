@@ -19,7 +19,7 @@ aria2 = ariaAPI(ariaClient(host="http://localhost", port=6800, secret=""))
 
 LOGGER = getLogger(__name__)
 
-rawowners = "<h1 style='text-align: center'>See my Channel <a href='https://telegram.me/JetMirror'>@Telegram</a><br><br>By<br><br><a href='https://github.com/Hrishi2861'>Jet-Mirror</a></h1>"
+rawowners = "<h1 style='text-align: center'>See my Channel <a href='https://telegram.me/cnmirror'>@Telegram</a><br><br>By<br><br><a href='@ShivamVerified'>Cn-Mirror</a></h1>"
 
 pin_entry = '''
     <section>
@@ -77,15 +77,15 @@ rawindexpage = '''
 </head>
 
 <body>
-    <!--© Designed and coded by @bipuldey19-Telegram-->
+    <!--© Designed and coded by @ShivamVerified-Telegram-->
     <header>
         <div class="brand">
             <img src="https://graph.org/file/43af672249c94053356c7.jpg" alt="logo" />
         </div>
         <h2 class="name">Qbittorrent Selection</h2>
         <div class="social">
-            <a href="https://www.telegram.me/JetMirror"><i class="fab fa-telegram-group"></i></a>
-            <a href="https://telegram.me/hrishikesh2861"><i class="fab fa-telegram"></i></a>
+            <a href="https://www.telegram.me/cnmirror><i class="fab fa-telegram-group"></i></a>
+            <a href="https://telegram.me/ShivamVerified"><i class="fab fa-telegram"></i></a>
         </div>
     </header>
     <!-- pin_entry -->
